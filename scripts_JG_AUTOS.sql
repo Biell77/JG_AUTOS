@@ -7,6 +7,7 @@ USE JG_AUTOS;
 --
 CREATE TABLE IF NOT EXISTS `Enderecos` (
   `id_endereco` INT NOT NULL,
+  `CEP` BIGINT NOT NULL,
   `Rua` VARCHAR(45) NOT NULL,
   `Numero_Casa` INT NOT NULL,
   `Bairro` VARCHAR(45) NOT NULL,
@@ -21,8 +22,8 @@ CREATE TABLE IF NOT EXISTS `Funcionarios` (
   `Sobrenome` VARCHAR(45) NOT NULL,
   `Contrato` VARCHAR(45) NOT NULL,
   `Cargo` VARCHAR(45) NOT NULL,
-  `CPF` BIGINT(11) NOT NULL,
-  `Telefone` BIGINT(11) NOT NULL,
+  `CPF` BIGINT NOT NULL,
+  `Telefone` BIGINT NOT NULL,
   `Salario` DOUBLE NOT NULL,
   PRIMARY KEY (`id_funcionario`)
 );
@@ -44,8 +45,8 @@ CREATE TABLE IF NOT EXISTS `Clientes` (
   `id_cliente` INT NOT NULL,
   `Nome` VARCHAR(45) NOT NULL,
   `Sobrenome` VARCHAR(45) NOT NULL,
-  `CPF` BIGINT(11) NOT NULL,
-  `Telefone` BIGINT(11) NOT NULL,
+  `CPF` BIGINT NOT NULL,
+  `Telefone` BIGINT NOT NULL,
   `Email` VARCHAR(45) NOT NULL,
   `Endereco_id_endereco` INT NOT NULL,
   `Vendas_id_vendas` INT NOT NULL,
