@@ -2470,3 +2470,762 @@ delete from
 where
     id_vendas = 29;
 
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        1,
+        'Cher',
+        'Mingardo',
+        68327908057,
+        7932154656,
+        'cmingardo0@wikia.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        2,
+        'Lisa',
+        'Chavrin',
+        36133953047,
+        9639246536,
+        'lchavrin1@dropbox.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        3,
+        'Dew',
+        'Wreath',
+        04772809007,
+        6528103933,
+        'dwreath2@barnesandnoble.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        4,
+        'Vivianna',
+        'Larkcum',
+        27608644052,
+        8137025531,
+        'vlarkcum3@google.fr'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        5,
+        'Marisa',
+        'Reeds',
+        22868057098,
+        9632443923,
+        'mreeds4@ucoz.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        6,
+        'Eddie',
+        'Bloxsome',
+        82312462079,
+        9835521786,
+        'ebloxsome5@desdev.cn'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        7,
+        'Herculie',
+        'Rolling',
+        59349641003,
+        5120276532,
+        'hrolling6@squidoo.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        8,
+        'Robinet',
+        'Bellas',
+        82804778029,
+        1324823738,
+        'rbellas7@gov.uk'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        9,
+        'Bobbie',
+        'Jury',
+        82358793019,
+        6937838117,
+        'bjury8@dropbox.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        10,
+        'Jareb',
+        'Pacht',
+        24490520034,
+        5438311012,
+        'jpacht9@discovery.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        11,
+        'Barny',
+        'Girke',
+        26109111066,
+        9623511535,
+        'bgirkea@biblegateway.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        12,
+        'Ebeneser',
+        'Grant',
+        98427062060,
+        8120685489,
+        'egrantb@wikimedia.org'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        13,
+        'Sybil',
+        'Servant',
+        40389628069,
+        3538126012,
+        'sservantc@businessinsider.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        14,
+        'Everett',
+        'Puttergill',
+        51352467038,
+        6831504189,
+        'eputtergilld@webs.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        15,
+        'Gabey',
+        'Duffill',
+        21987104048,
+        8226538421,
+        'gduffille@ycombinator.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        16,
+        'Chantal',
+        'Stavers',
+        33253065006,
+        6921311577,
+        'cstaversf@acquirethisname.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        17,
+        'Grove',
+        'Marlowe',
+        72129277080,
+        9621115124,
+        'gmarloweg@si.edu'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        18,
+        'Beulah',
+        'Drissell',
+        68228646011,
+        9832578389,
+        'bdrissellh@domainmarket.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        19,
+        'Cheslie',
+        'Jammes',
+        00228988080,
+        8126433264,
+        'cjammesi@who.int'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        20,
+        'Dolorita',
+        'Goeff',
+        71093041080,
+        5134770114,
+        'dgoeffj@goo.gl'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        21,
+        'Misty',
+        'Paine',
+        07615032008,
+        8337152612,
+        'mpainek@cbc.ca'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        22,
+        'Rex',
+        'Ketts',
+        97918991001,
+        6230677166,
+        'rkettsl@msn.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        23,
+        'Rice',
+        'Di Maggio',
+        78121413060,
+        8436236634,
+        'rdimaggiom@t.co'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        24,
+        'Cornall',
+        'Zorn',
+        73634795000,
+        8621387375,
+        'czornn@wikipedia.org'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        25,
+        'Olly',
+        'Demsey',
+        57345618005,
+        2837397087,
+        'odemseyo@howstuffworks.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        26,
+        'Quintilla',
+        'Alelsandrowicz',
+        62499604069,
+        4938622977,
+        'qalelsandrowiczp@nih.gov'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        27,
+        'Caryn',
+        'Parken',
+        94008312005,
+        9727862507,
+        'cparkenq@bizjournals.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        28,
+        'Johnette',
+        'Smallpeice',
+        20675305004,
+        6833384558,
+        'jsmallpeicer@jimdo.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        29,
+        'Addy',
+        'Pearsey',
+        51272181006,
+        7925338115,
+        'apearseys@apache.org'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        30,
+        'Deanna',
+        'Boldero',
+        94075305074,
+        9335731127,
+        'dbolderot@wsj.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        31,
+        'Vicki',
+        'Epton',
+        76049040095,
+        7211375339,
+        'veptonu@overblog.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        32,
+        'Daryle',
+        'Woolfall',
+        84607315028,
+        9625486882,
+        'dwoolfallv@twitter.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        33,
+        'Isidora',
+        'Hylden',
+        25355178090,
+        6521356747,
+        'ihyldenw@cpanel.net'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        34,
+        'Filberte',
+        'Maskelyne',
+        49546275085,
+        1335456372,
+        'fmaskelynex@elegantthemes.com'
+    );
+
+insert into
+    Clientes (
+        id_clintes,
+        Nome,
+        Sobrenome,
+        CPF,
+        Telefone,
+        Email
+    )
+values
+    (
+        35,
+        'Erin',
+        'Colly',
+        05441924004,
+        4735895652,
+        'ecollyy@boston.com'
+    );
+
+UPDATE
+    Clientes
+SET
+    Email = 'ecolly@Eccos.com'
+WHERE
+    id_clintes = 35;
+
+UPDATE
+    Clientes
+SET
+    Nome = 'Gabriel'
+WHERE
+    id_clintes = 1;
+
+UPDATE
+    Clientes
+SET
+    Sobrenome = 'Rothermel'
+WHERE
+    id_clintes = 1;
+
+UPDATE
+    Clientes
+SET
+    CPF = 14851943938
+WHERE
+    id_clintes = 1;
+
+UPDATE
+    Clientes
+SET
+    Telefone = 4797645600
+WHERE
+    id_clintes = 1;
+
+UPDATE
+    Clientes
+SET
+    Email = 'Gabriel.LuizRothermel@gmail.com'
+WHERE
+    id_clintes = 1;
+
+UPDATE
+    Clientes
+SET
+    Nome = 'João'
+WHERE
+    id_clintes = 2;
+
+UPDATE
+    Clientes
+SET
+    Sobrenome = 'Maffezzolli'
+WHERE
+    id_clintes = 2;
+
+UPDATE
+    Clientes
+SET
+    CPF = 07170179904
+WHERE
+    id_clintes = 2;
+
+UPDATE
+    Clientes
+SET
+    Telefone = 4792767478
+WHERE
+    id_clintes = 2;
+
+DELETE FROM
+    Clientes
+where
+    id_clintes = 34;
+
+DELETE FROM
+    Clientes
+where
+    id_clintes = 26;
+
+DELETE FROM
+    Clientes
+where
+    id_clintes = 23;
+
+DELETE FROM
+    Clientes
+where
+    id_clintes = 18;
+
+DELETE FROM
+    Clientes
+where
+    id_clintes = 7;
