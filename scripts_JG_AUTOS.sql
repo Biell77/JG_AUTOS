@@ -916,4 +916,903 @@ DELETE FROM
 WHERE
     id_endereco = 9;
 
-    
+    insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        1,
+        'Malvin',
+        'Soane',
+        '11673-532',
+        'Vendedor',
+        12951103344,
+        4934366934,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        2,
+        'Erasmus',
+        'Moreinu',
+        '49349-140',
+        'Vendedor',
+        59992199067,
+        8333361081,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        3,
+        'Gerrard',
+        'Durbin',
+        '61715-039',
+        'Vendedor',
+        72291940678,
+        6622238714,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        4,
+        'Else',
+        'Featherstone',
+        '54575-257',
+        'Vendedor',
+        78619081519,
+        9630776341,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        5,
+        'Carver',
+        'McDonough',
+        '49999-306',
+        'Vendedor',
+        60562260269,
+        9525823681,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        6,
+        'Conchita',
+        'Camblin',
+        '43269-858',
+        'Vendedor',
+        05110161666,
+        1627735612,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        7,
+        'Fraze',
+        'Taylot',
+        '52125-199',
+        'Vendedor',
+        93949250905,
+        2734858558,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        8,
+        'Natka',
+        'Daughtery',
+        '54868-5855',
+        'Vendedor',
+        68508288000,
+        6129838725,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        9,
+        'Hasheem',
+        'Iwanowski',
+        '50383-087',
+        'Vendedor',
+        08138479078,
+        9226212876,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        10,
+        'Chas',
+        'Vasyukhin',
+        '59779-546',
+        'Vendedor',
+        62986405410,
+        2232432173,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        11,
+        'Powell',
+        'Sprason',
+        '50309-777',
+        'Vendedor',
+        95051361374,
+        9523542238,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        12,
+        'Solly',
+        'Kincla',
+        '0536-4534',
+        'Vendedor',
+        93780118378,
+        6936474549,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        13,
+        'Selene',
+        'Dymock',
+        '37000-406',
+        'Faxineiro',
+        84125765600,
+        8324544832,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        14,
+        'Gene',
+        'Ibbett',
+        '37205-951',
+        'Faxineiro',
+        17327521259,
+        9821263227,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        15,
+        'Almeria',
+        'Bowery',
+        '0615-7661',
+        'Faxineiro',
+        03419457731,
+        6432664122,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        16,
+        'Melba',
+        'Turvey',
+        '59726-256',
+        'Faxineiro',
+        90015603938,
+        5522136326,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        17,
+        'Kara-lynn',
+        'Shmyr',
+        '52125-061',
+        'Faxineiro',
+        54518164334,
+        6936553418,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        18,
+        'Kristien',
+        'Rowston',
+        '55111-440',
+        'Faxineiro',
+        65002822800,
+        1127664337,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        19,
+        'Carilyn',
+        'Malicki',
+        '52083-056',
+        'Faxineiro',
+        60635005026,
+        9722419455,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        20,
+        'Alain',
+        'Di Frisco',
+        '51079-444',
+        'Faxineiro',
+        93687192849,
+        6525587533,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        21,
+        'Caspar',
+        'Tysack',
+        '24330-210',
+        'Faxineiro',
+        91337808628,
+        6224464417,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        22,
+        'Nollie',
+        'Moulin',
+        '55154-5034',
+        'Faxineiro',
+        47713526234,
+        4332683743,
+        1400.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        23,
+        'Channa',
+        'Grinyakin',
+        '0179-1978',
+        'Vendedor',
+        20782313809,
+        5528206767,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        24,
+        'Adda',
+        'Harsum',
+        '58118-2108',
+        'Vendedor',
+        19617622939,
+        4932618858,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        25,
+        'Carce',
+        'Yoseloff',
+        '65044-1340',
+        'Vendedor',
+        16578525122,
+        6323324679,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        26,
+        'Carlo',
+        'Goch',
+        '0280-6060',
+        'Vendedor',
+        37340019197,
+        2225078781,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        27,
+        'Ferdinande',
+        'Klimek',
+        '36800-022',
+        'Vendedor',
+        98104996711,
+        8832871766,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        28,
+        'Wald',
+        'Northfield',
+        '49483-341',
+        'Vendedor',
+        51860602916,
+        8532706117,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        29,
+        'Tish',
+        'Pabel',
+        '59886-350',
+        'Vendedor',
+        55045434870,
+        4536321318,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        30,
+        'Zachariah',
+        'Shitliffe',
+        '0527-1373',
+        'Vendedor',
+        10558190537,
+        8827178524,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        31,
+        'Lion',
+        'Peter',
+        '53808-1042',
+        'Vendedor',
+        75434602382,
+        6325885247,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        32,
+        'Annamaria',
+        'Meadmore',
+        '48951-8080',
+        'Vendedor',
+        82983203522,
+        9625640834,
+        1800.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        33,
+        'Nikki',
+        'Stevenson',
+        '10812-424',
+        'Diretor',
+        64468927569,
+        5326345944,
+        5000.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        34,
+        'Jacquie',
+        'Hanes',
+        '57520-0058',
+        'Diretor',
+        24642696385,
+        7436718683,
+        5000.00
+    );
+
+insert into
+    Funcionarios (
+        id_funcionario,
+        Nome,
+        Sobrenome,
+        Contrato,
+        Cargo,
+        CPF,
+        Telefone,
+        Salario
+    )
+values
+    (
+        35,
+        'Lorry',
+        'Petschelt',
+        '49967-428',
+        'Diretor',
+        65920232447,
+        6139627481,
+        5000.00
+    );
+
+update
+    Funcionarios
+set
+    Nome = 'Tiago'
+where
+    id_funcionario = 26;
+
+update
+    Funcionarios
+set
+    Nome = 'Antonio'
+where
+    id_funcionario = 27;
+
+update
+    Funcionarios
+set
+    Nome = 'Joao'
+where
+    id_funcionario = 28;
+
+update
+    Funcionarios
+set
+    Nome = 'Lucas'
+where
+    id_funcionario = 29;
+
+update
+    Funcionarios
+set
+    Nome = 'Bruno'
+where
+    id_funcionario = 30;
+
+update
+    Funcionarios
+set
+    Nome = 'Joaquim'
+where
+    id_funcionario = 31;
+
+update
+    Funcionarios
+set
+    Nome = 'Ricardo'
+where
+    id_funcionario = 32;
+
+update
+    Funcionarios
+set
+    Nome = 'Luiz'
+where
+    id_funcionario = 33;
+
+update
+    Funcionarios
+set
+    Nome = 'Eric'
+where
+    id_funcionario = 34;
+
+update
+    Funcionarios
+set
+    Nome = 'Gabriel'
+where
+    id_funcionario = 35;
+
+delete from
+    Funcionarios
+where
+    id_funcionario = 26;
+
+delete from
+    Funcionarios
+where
+    id_funcionario = 27;
+
+delete from
+    Funcionarios
+where
+    id_funcionario = 28;
+
+delete from
+    Funcionarios
+where
+    id_funcionario = 28;
+
+delete from
+    Funcionarios
+where
+    id_funcionario = 29;
+
