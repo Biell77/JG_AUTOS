@@ -1816,3 +1816,657 @@ delete from
 where
     id_funcionario = 29;
 
+    insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (1, 'Malvin', 'Soane', 'Vendedor', '120000,00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (2, 'Erasmus', 'Moreinu', 'Vendedor', '200000,00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (3, 'Gerrard', 'Durbin', 'Vendedor', '100000,00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        4,
+        'Else',
+        'Featherstone',
+        'Vendedor',
+        '17000,00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        5,
+        'Carver',
+        'McDonough',
+        'Vendedor',
+        '605000.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (6, 'Conchita', 'Camblin', 'Vendedor', '10000.00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (7, 'Fraze', 'Taylot', 'Vendedor', '939000.00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (8, 'Natka', 'Daughtery', 'Vendedor', '68500.00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        9,
+        'Hasheem',
+        'Iwanowski',
+        'Vendedor',
+        '10000.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (10, 'Chas', 'Vasyukhin', 'Vendedor', '62900.00');
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        11,
+        'Powell',
+        'Sprason',
+        '50309-777',
+        'Vendedor',
+        '950.513.613-74'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        12,
+        'Solly',
+        'Kincla',
+        '0536-4534',
+        'Vendedor',
+        '18500.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        13,
+        'Selene',
+        'Dymock',
+        '37000-406',
+        'Vendedor',
+        '19400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        14,
+        'Gene',
+        'Ibbett',
+        '37205-951',
+        'Vendedor',
+        '14020.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        15,
+        'Almeria',
+        'Bowery',
+        '0615-7661',
+        'Vendedor',
+        '31400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        16,
+        'Kara-lynn',
+        'Shmyr',
+        '52125-061',
+        'Vendedor',
+        '50000.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        17,
+        'Kristien',
+        'Rowston',
+        '55111-440',
+        'Vendedor',
+        '177400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        18,
+        'Carilyn',
+        'Malicki',
+        '52083-056',
+        'Vendedor',
+        '812400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        19,
+        'Alain',
+        'Di Frisco',
+        '51079-444',
+        'Vendedor',
+        '194090.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        20,
+        'Caspar',
+        'Tysack',
+        '24330-210',
+        'Vendedor',
+        '194200.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        21,
+        'Nollie',
+        'Moulin',
+        '55154-5034',
+        'Vendedor',
+        '154400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        22,
+        'Channa',
+        'Grinyakin',
+        '0179-1978',
+        'Vendedor',
+        '861800.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        23,
+        'Adda',
+        'Harsum',
+        '58118-2108',
+        'Vendedor',
+        '718800.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        24,
+        'Carce',
+        'Yoseloff',
+        '65044-1340',
+        'Vendedor',
+        '415800.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        25,
+        'Carlo',
+        'Goch',
+        '0280-6060',
+        'Vendedor',
+        '148050.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        26,
+        'Ferdinande',
+        'Klimek',
+        '36800-022',
+        'Vendedor',
+        '918500.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        27,
+        'Wald',
+        'Northfield',
+        '49483-341',
+        'Vendedor',
+        '185090.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        28,
+        'Tish',
+        'Pabel',
+        '59886-350',
+        'Vendedor',
+        '185400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        29,
+        'Zachariah',
+        'Shitliffe',
+        '0527-1373',
+        '418400.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        30,
+        'Lion',
+        'Peter',
+        '53808-1042',
+        'Vendedor',
+        '414800.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        31,
+        'Annamaria',
+        'Meadmore',
+        '48951-8080',
+        'Vendedor',
+        '298500.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        32,
+        'Nikki',
+        'Stevenson',
+        '10812-424',
+        'Vendedor',
+        '55000.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        33,
+        'Jacquie',
+        'Hanes',
+        '57520-0058',
+        'Vendedor',
+        '750700.00'
+    );
+
+insert into
+    Vendas (
+        id_vendas,
+        Nome_Func,
+        Sobrenome_Func,
+        Cargo,
+        Preco_Total
+    )
+values
+    (
+        34,
+        'Lorry',
+        'Petschelt',
+        '49967-428',
+        'Vendedor',
+        '358000.00'
+    );
+
+update
+    Vendas
+set
+    Nome_Func = 'Andrew'
+where
+    id_vendas = 25;
+
+update
+    Vendas
+set
+    Nome_Func = 'Pedro'
+where
+    id_vendas = 26;
+
+update
+    Vendas
+set
+    Nome_Func = 'Lucas'
+where
+    id_vendas = 27;
+
+update
+    Vendas
+set
+    Nome_Func = 'Tiago'
+where
+    id_vendas = 28;
+
+update
+    Vendas
+set
+    Nome_Func = 'Luiz'
+where
+    id_vendas = 29;
+
+update
+    Vendas
+set
+    Nome_Func = 'Inacio'
+where
+    id_vendas = 30;
+
+update
+    Vendas
+set
+    Nome_Func = 'Gabriel'
+where
+    id_vendas = 31;
+
+update
+    Vendas
+set
+    Nome_Func = 'Erik'
+where
+    id_vendas = 32;
+
+update
+    Vendas
+set
+    Nome_Func = 'Reinaldo'
+where
+    id_vendas = 33;
+
+update
+    Vendas
+set
+    Nome_Func = 'Jair'
+where
+    id_vendas = 34;
+
+delete from
+    Vendas
+where
+    id_vendas = 25;
+
+delete from
+    Vendas
+where
+    id_vendas = 26;
+
+delete from
+    Vendas
+where
+    id_vendas = 27;
+
+delete from
+    Vendas
+where
+    id_vendas = 28;
+
+delete from
+    Vendas
+where
+    id_vendas = 29;
+
