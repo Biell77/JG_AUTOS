@@ -4,7 +4,7 @@ Nosso projeto visa um banco de dados de uma loja de carros, com o intuito de fac
 
 ![img_der_JG_AUTOS](https://github.com/Biell77/JG_AUTOS/assets/111303928/d51acd11-185c-4b45-814b-b9d6723bc466)
 
-*Alunos:* 
+**Alunos:**
 
-Gabriel Luiz Rothermel,
+Gabriel Luiz Rothermel e 
 João Lucas Maffezzolli
