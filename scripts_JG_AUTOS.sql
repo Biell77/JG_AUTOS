@@ -1,4 +1,4 @@
-DROP DATABASE JG_AUTOS;
+DROP DATABASE IF EXISTS JG_AUTOS;
 
 -- Cria o banco de dados
 CREATE DATABASE IF NOT EXISTS JG_AUTOS;
@@ -4071,7 +4071,6 @@ FROM
     Vendas
 ORDER BY
     id_Vendas;
-
 
 UPDATE
     Enderecos
